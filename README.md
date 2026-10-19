@@ -1129,7 +1129,7 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 - [Wasabi Wallet](https://www.wasabiwallet.io/) - An open source, non-custodial, privacy-focused Bitcoin wallet available on Desktop.
 - [Cake Wallet](https://cakewallet.com) - Open source, non-custodial wallet for Monero, Bitcoin, and other coins on mobile and desktop. MIT licensed.
 - [Feather Wallet](https://featherwallet.org/) - Lightweight open source Monero desktop wallet with built-in Tor and coin control. BSD-3 licensed.
-- [Monero One](https://monero.one) - Open source Monero wallet for iPhone and Android with no account, no analytics and a SOCKS5 proxy setting for Tor through Orbot. MIT licensed.
+- [Monero One](https://monero.one) - Open source Monero wallet for iPhone and Android with no account. MIT licensed.
 
 ### Payment Processors
 
